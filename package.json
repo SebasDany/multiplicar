@@ -1,0 +1,15 @@
+{
+  "name": "node",
+  "version": "1.1.0",
+  "description": "Aplicacion de lineas de comando",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sebastian Guandinango",
+  "license": "MIT",
+  "dependencies": {
+    "yargs": "^14.2.0"
+  },
+  "devDependencies": {}
+}
